@@ -23,9 +23,32 @@
           "ioValue": 21
         }
       ]
+    },
+    {
+      "atomType": "Extrude",
+      "x": 0.530209617755857,
+      "y": 0.36682242990654207,
+      "uniqueID": "id-7",
+      "ioValues": [
+        {
+          "name": "height",
+          "ioValue": 16
+        }
+      ]
     }
   ],
-  "allConnectors": [],
+  "allConnectors": [
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-4",
+      "ap2ID": "id-7"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-7",
+      "ap2ID": "id-2"
+    }
+  ],
   "unitsKey": "MM",
   "fileTypeVersion": 1,
   "filetypeVersion": 1
