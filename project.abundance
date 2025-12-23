@@ -11,6 +11,18 @@
       "x": 0.98,
       "y": 0.5,
       "uniqueID": "id-2"
+    },
+    {
+      "atomType": "Circle",
+      "x": 0.4500616522811344,
+      "y": 0.3644859813084112,
+      "uniqueID": "id-4",
+      "ioValues": [
+        {
+          "name": "diameter",
+          "ioValue": 21
+        }
+      ]
     }
   ],
   "allConnectors": [],
